@@ -24,7 +24,10 @@ This Currency Converter is a desktop application built using Python’s Tkinter 
 ## How to Run
 
 1. Ensure Python is installed (preferably Python 3.6 or later).
-2. Copy the script into a file, e.g., `currency_converter.py`.
+2. Copy the script into a file, e.g.,
+   ```bash
+   currency_converter.py
+   ```
 3. Run the script using:
 
 ```bash 
