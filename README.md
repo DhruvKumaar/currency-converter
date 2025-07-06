@@ -1,4 +1,3 @@
-# currency-converter
 # Project 1: Currency Converter App
 
 ## Overview
